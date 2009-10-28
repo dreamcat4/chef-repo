@@ -1,2 +1,4 @@
---- {}
-
+--- 
+cookbooks: 
+  branch: master
+  url: git://github.com/opscode/cookbooks.git
