@@ -2,3 +2,6 @@
 cookbooks: 
   branch: master
   url: git://github.com/opscode/cookbooks.git
+site-cookbooks: 
+  branch: master
+  url: git@github.com:dreamcat4/site-cookbooks.git
